@@ -1,7 +1,7 @@
 /**
  * ============================================================
  * Projekt: Fibonacci
- * Klasse: FibonacciZahl
+ * Klasse: FibonacciNumber
  *
  * Beschreibung:
  * Calculates Fibonacci Numbers from position 0-10 and displays them in the Consol.
